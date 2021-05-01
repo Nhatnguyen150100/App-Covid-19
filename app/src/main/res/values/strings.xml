@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="call_now">Call Now</string>
+    <string name="send_now">Send Now</string>
+    <string name="see_statistics">See Statistics</string>
+    <string name="wear_a_n_face_mask">Wear a\n face mask</string>
+    <string name="clean_your_n_hand_often">Clean your\n hand often</string>
+    <string name="avoid_close_n_contact">Avoid Close\n Contact</string>
+    <string name="prevention">Prevention</string>
+    <string name="if_you_feel_sick_with_any_of_covid_19_symptoms_please_call_or_sms_us_immediately_for_help">If you feel sick with any of covid-19 symptoms please call or SMS us immediately for help</string>
+    <string name="are_you_feeling_sick">Are you feeling sick?</string>
+    <string name="todo">TODO</string>
+</resources>
